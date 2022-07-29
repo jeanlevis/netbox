@@ -1,7 +1,8 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/netbox-community/netbox/develop/docs/netbox_logo.svg" width="400" alt="NetBox logo" />
+  <h1 style = "text-align : center" >Welcome to the netbox!</h1>
 </div>
-<h1 style = "text-align : center" >Welcome to the netbox!</h1>
+
 
 ![Master branch build status](https://github.com/netbox-community/netbox/workflows/CI/badge.svg?branch=master)
 
